@@ -13,8 +13,7 @@ p {
     font-style: normal;
     color:#BE2B26;
     letter-spacing: 2px;
-	text-align: justify;
-	background: transparent url(images/blood-over-text.png) no-repeat top right 100% 100%; 
+	text-align: justify; 
 }
 h3{
     font-family: "Creepster", system-ui;
