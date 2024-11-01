@@ -11,10 +11,10 @@ p {
     font-family: "Rubik Wet Paint", system-ui;
     font-weight: 400;
     font-style: normal;
-    color:rgb(243, 47, 47);
+    color:#BE2B26;
     letter-spacing: 2px;
 	text-align: justify;
-	background: transparent url(images/images-removebg-preview (6).png) no-repeat top center; 
+	background: transparent url(images/blood-over-text.png) no-repeat top right 100% 100%; 
 }
 h3{
     font-family: "Creepster", system-ui;
@@ -70,6 +70,21 @@ header {
 	font: italic 1.1em/2.2 georgia; 
 	text-align: center;
 	}
+
+	.participation{ 
+		display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+	overflow-x: inherit;
+	margin-right: 100px;
+    margin-left: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;	
+	}
 .explanation { 
 	display: block;
     margin-block-start: 1em;
@@ -102,6 +117,10 @@ header {
 	padding-left: 10px; 
 	margin-bottom: 40px;
 	}
+	a:hover {
+		background-color: #9C231F;
+		font-size: 10px;
+	  }
 footer { 
 	text-align: center; 
 	}
